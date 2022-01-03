@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatterBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatterBot/dataset/raw_chat_corpus/egret-qa-useless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatterBot/dataset/raw_chat_corpus/sms-useless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chinese_chatbot_corpus-master/dataset/raw_chat_corpus/egret-qa-useless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chinese_chatbot_corpus-master/dataset/raw_chat_corpus/sms-useless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/raw_chat_corpus/egret-qa-useless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/raw_chat_corpus/sms-useless" vcs="Git" />
+  </component>
+</project>
